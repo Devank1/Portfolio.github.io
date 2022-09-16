@@ -237,7 +237,7 @@ button {
     width: 100%;
     height: auto;
     min-height: 650px;
-    background-image: url('/portfolio/portfolio/images/123.jpg');
+    background-image: url('/portfolio/images/123.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
